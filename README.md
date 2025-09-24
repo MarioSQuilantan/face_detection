@@ -23,6 +23,12 @@ Este proyecto integra la cámara de dispositivo con el detector de rostros de ML
 - google_mlkit_face_detection
 - flutter_bloc
 
+## Version Flutter
+
+```bash
+3.35.1
+```
+
 ## Cómo ejecutar (macOS / iOS / Android)
 
 1. Asegúrate de tener Flutter configurado y disponible en tu PATH.
